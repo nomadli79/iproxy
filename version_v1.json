@@ -1,0 +1,12 @@
+{
+    "http_head": {
+        "version": 1,
+        "file": "http_head_v1.json"
+    },
+    "acl_rule": {
+        "version": 1,
+        "file": "rule_v1.acl",
+        "geoip_version": 1,
+        "geoip_file": "GeoLite2-Country_v1.mmdb"
+    }
+}
