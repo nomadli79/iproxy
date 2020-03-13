@@ -5,8 +5,10 @@
     },
     "acl_rule": {
         "version": 1,
-        "file": "rule_v1.acl",
-        "geoip_version": 1,
-        "geoip_file": "GeoLite2-Country_v1.mmdb"
+        "file": "rule_v1.acl"
+    },
+    "geoip_db": {
+        "version": "462392ef4fee0be24a36230a39ae1e9c",
+        "file": "GeoLite2-Country_v1.mmdb"
     }
 }
