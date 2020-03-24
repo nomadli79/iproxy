@@ -4,7 +4,8 @@
 # 参数解释:
 # [version] 规则版本号
 # [proxy_all] 默认代理
-# [bypass_all] 默认直连 iCProxy 会判断网络是否可达,如果不可达会自动走代理
+# [bypass_all] 默认直连
+# [check_all]  判断网络是否可达,如果不可达自动走代理
 # [outbound_block_list] 禁止访问列表
 # [bypass_list] 直连列表
 # [proxy_list] 代理列表
@@ -19,7 +20,7 @@
 1
 
 
-[bypass_all]
+[check_all]
 
 
 [bypass_list]
