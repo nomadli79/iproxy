@@ -8,7 +8,7 @@
         "file": "rule_v1.acl"
     },
     "geoip_db": {
-        "version": "462392ef4fee0be24a36230a39ae1e9c",
+        "version": "2cb0f38ad8e28b43ccdec48d37137e4a",
         "file": "GeoLite2-Country_v1.mmdb"
     }
 }
