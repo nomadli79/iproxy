@@ -10,5 +10,9 @@
     "geoip_db": {
         "version": "2cb0f38ad8e28b43ccdec48d37137e4a",
         "file": "GeoLite2-Country_v1.mmdb"
+    },
+    "host": {
+        "version": "AF1F1B8CA436E4BD4CDEEE5EDC79741F",
+        "file": "host_v1"
     }
 }
