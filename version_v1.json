@@ -8,11 +8,11 @@
         "file": "rule_v1.acl"
     },
     "geoip_db": {
-        "version": "2cb0f38ad8e28b43ccdec48d37137e4a",
+        "version": "462392ef4fee0be24a36230a39ae1e9c",
         "file": "GeoLite2-Country_v1.mmdb"
     },
     "host": {
-        "version": "AF1F1B8CA436E4BD4CDEEE5EDC79741F",
+        "version": "95f96946e0636173ac723271d2d24ee5",
         "file": "host_v1"
     }
 }
