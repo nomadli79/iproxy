@@ -1,7 +1,7 @@
 {
     "http_head": {
-        "version": 1,
-        "file": "http_head_v1.json"
+        "version": 2,
+        "file": "http_header_v2.json"
     },
     "acl_rule": {
         "version": 1,
